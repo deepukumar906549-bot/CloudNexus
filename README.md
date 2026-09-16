@@ -8,8 +8,8 @@ monitor, and automate cloud resources through a centralized dashboard.
 ## Team
 
 - Deepu Kumar
-- Satyam
-- Ritika
+- Satyam Kumar
+- Ritik Roushan
 
 ## Technology Stack
 
